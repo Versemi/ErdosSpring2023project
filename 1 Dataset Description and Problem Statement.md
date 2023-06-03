@@ -6,8 +6,7 @@ The dataset for this project will be obtained from the Yahoo Finance API, which 
 
 **Objective**:
 
-- The objective of this project is to compare and evaluate different prediction models for stock price forecasting. We will explore the performance and accuracy of several models in class just to review and to guide ourselves first. 
-- Desirably, as the project being proceeded, we would like to compare LSTM (Long Short-Term Memory), a commonly used method in stock market prediction, with other more complex models such as Bayesian approaches. The project aims to examine the strengths and limitations of both LSTM and Bayesian models in capturing and predicting stock market dynamics. By evaluating the performance of these models on historical stock data, the project seeks to analyze their respective abilities to handle complex patterns, incorporate prior knowledge, and make accurate predictions. The comparison will involve assessing factors such as prediction accuracy, computational efficiency, interpretability, and scalability. Through this analysis, the project aims to provide insights into the trade-offs and benefits of using LSTM and Bayesian models in stock market prediction, shedding light on the suitability of each approach for different prediction scenarios.
+The goal of this project is to assess and compare various prediction models for stock price forecasting. Initially, we will examine regression and time-series forecasting models to review their performance and accuracy. Subsequently, we will delve into the LSTM model, widely utilized in the quantitative finance domain, to evaluate its effectiveness and determine how it fares in comparison.
 
 **Stakeholders**:
 
@@ -18,7 +17,7 @@ Financial Institutions
 **KPIs**:
 
 General backtesting 
-Vlatility/Returns 
+Volatility/Returns 
 Accuracy of predictions 
 Mean Squared Error (MSE)
 Return on Investment (ROI)
